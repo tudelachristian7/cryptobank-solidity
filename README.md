@@ -2,6 +2,8 @@
 
 A secure and minimal multi-user Ethereum bank smart contract built in Solidity.
 
+Designed following secure smart contract development best practices.
+
 ## Overview
 
 CryptoBank is a smart contract that allows multiple users to deposit and withdraw Ether while enforcing strict security and balance constraints. The contract ensures that users can only withdraw their own funds and prevents exceeding a configurable maximum balance.
